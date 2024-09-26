@@ -1,31 +1,18 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/51nk0r5w1m/term_readme/refs/heads/main/README.md",
+  "title": "51nk0r5w1m",
+  "name": "Carley Fant",
+  "ascii": "51nk0r5w1m",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "51nk0r5w1m",
+    "linkedin": "carleyfant"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "contact@carleyfant.com",
+  "ps1_hostname": "51nk0r5w1m",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
+  "repo": "https://github.com/51nk0r5w1m/5n00py",
   "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
   "colors": {
-    "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
-    },
     "dark": {
       "background": "#2E3440",
       "foreground": "#E5E9F0",
