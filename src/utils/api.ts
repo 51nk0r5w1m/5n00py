@@ -23,7 +23,7 @@ export const getWeather = async (city: string) => {
 };
 
 export const getQuote = async () => {
-  const { data } = await axios.get('https://zenquotes.io/api/random');
+  const { data } = await axios.get('https://johndturn-quotableapiproxy.web.val.run/');
   return {
     quote: `“${data.content}” — ${data.author}`,
   };
