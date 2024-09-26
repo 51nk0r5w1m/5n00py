@@ -24,7 +24,8 @@ export const getWeather = async (city: string) => {
 
 export const getQuote = async () => {
   const { data } = await axios.get('https://johndturn-quotableapiproxy.web.val.run/');
+  const quoteObj = data[0];
   return {
-    quote: `“${data.content}” — ${data.author}`,
+    quote: `“${quoteObj.content}” — ${quoteObj.author}`,
   };
 };
